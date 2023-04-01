@@ -1,0 +1,141 @@
+{
+        "viewModel": {
+                "salesforcebanner": [
+                        {
+                                "bannerheading": "C-Zentrix For Salesforce",
+                                "bannerparagraph": "Add powerful communication capabilities in your Contact Center with Salesforce Integration.",
+                                "btnOne": "Request Demo",
+                                "btnTwo": "Watch Video",
+                                "btnTwoVideo": "https://www.youtube.com/embed/t00NF9fqOQk",
+                                "bannerimage": "/images/partners-page/salesforce-integration/hero-img.png"
+                        }
+                ],
+                "salesforceTrusted": {
+                        "Trustedheading": "Trusted By over 1500 Clients Globally",
+                        "salesforceImages": [
+                                {
+                                        "image": "/images/partners-page/salesforce-integration/client-logo-1.png"
+                                },
+                                {
+                                        "image": "/images/partners-page/salesforce-integration/client-logo-2.png"
+                                },
+                                {
+                                        "image": "/images/partners-page/salesforce-integration/client-logo-3.png"
+                                },
+                                {
+                                        "image": "/images/partners-page/salesforce-integration/client-logo-4.png"
+                                },
+                                {
+                                        "image": "/images/partners-page/salesforce-integration/client-logo-5.png"
+                                },
+                                {
+                                        "image": "/images/partners-page/salesforce-integration/client-logo-6.png"
+                                }
+                        ]
+                },
+                "salesForceTab": [
+                        {
+                                "tab": "Overview",
+                "href":"salesforce-overview"
+                        },
+                        {
+                                "tab": "How to install?",
+                "href":"salesforce-install"
+                        },
+                        {
+                                "tab": "Screenshots",
+                "href":"salesforce-screenshot"
+                        }
+                ],
+                "salesforceoverview": {
+                        "overviewtitle": "C-Zentrix is a Omnichannel contact center software that facilitates communication between your agents and customers. Installing the C-Zentrix CTI app for Salesforce will let you access C-Zentrix's telephony controls right from your helpdesk. Some benefits of using this app are:",
+                        "overviewdescription": [
+                                "Handle calls easily using the C-Zentrix call widget right from within Salesforce.",
+                                "Agents can also quickly pull up information about the customer they are on call with, like their Name, Email and their recent tickets, and get more context while on calls.",
+                                "Convert calls to Salesforce tickets with just one click. The app makes sure a recording of the call is automatically attached."
+                        ],
+                        "overviewimage": "/images/partners-page/salesforce-integration/overview-img.png"
+                },
+                "salesforceinstall": {
+                        "installtitle": "<b>Step 1:</b> Go to Salesforce  Marketplace and install this app in your  Salesforce account.<br><b>Step 2:</b> Provide the following information:",
+                        "description": [
+                                "Your Salesforce Account URL.",
+                                "Your C-Zentrix Server Domain (Contact an C-Zentrix representative for any support).",
+                                "API Key."
+                        ],
+                        "installimage": "/images/partners-page/salesforce-integration/install-img.png",
+                        "screenshots": "Screenshots"
+                },
+                "salesforceintegration": [
+                        {
+                                "integrationheading": "Salesforce Integration: Bring Support and Sales together",
+                                "integrationimage": "/images/partners-page/salesforce-integration/img001.png",
+                                "integrationtitle": "With Salesforce and C-Zentrix integration, you can make every interaction delightful for your customers and agents. Combine the two systems to boost customer satisfaction, agent productivity, contact center costs, and personalize every interaction.",
+                                "integrationbutton": "Download Datasheet"
+                        }
+                ],
+                "salesforceinstall": [
+                        {
+                                "integrationheading": "Goto Feature-Setting > Service > call Center > Call Centers from select-menu.",
+                                "integrationimage": "https://stg.c-zentrix.com/images/partners-page/salesforce-integration/ss-1.jpg"
+                        },
+            {
+                                "integrationheading": "Now Find the admin user and Add to Call Center.",
+                                "integrationimage": "https://stg.c-zentrix.com/images/partners-page/salesforce-integration/ss-2.jpg"
+                        },{
+                                "integrationheading": "Login the user to which you have assigned the particular call center. And launch CZ bar app from app launch. After launch Phone icon will be shown on footer of CRM, on click on this button CZ bar will pop up.",
+                                "integrationimage": "https://stg.c-zentrix.com/images/partners-page/salesforce-integration/ss-3.jpg"
+                        },{
+                                "integrationheading": "Goto your CallCenter > Campaign > BC Select Salesforce > Lightning & save.",
+                                "integrationimage": "https://stg.c-zentrix.com/images/partners-page/salesforce-integration/ss-4.jpg"
+                        },{
+                                "integrationheading": "Will be open globle search page when agent connect with customer/client.",
+                                "integrationimage": "https://stg.c-zentrix.com/images/partners-page/salesforce-integration/ss-5.jpg"
+                        }
+
+                ],
+        "salesforceBlogs":{
+                "blog1":"cti-salesforce-crm-benefits",
+                "blog2":"cti-salesforce-crm-integration"
+        },
+                "salesforsefeatures": {
+                        "featuredetails": [
+                                {
+                                        "sectionorder": "even",
+                                        "featureimage": "/images/partners-page/salesforce-integration/img002.png",
+                                        "featureheading": "Boost Agent Productivity",
+                                        "featuretitle": "Get better customer outcomes from every call. Gain a comprehensive view of the customer and equip your agents with more powerful tools and insights. With the click-to-dial feature, agents can initiate the call from Salesforce. With Single Sign-On, agents can easily log into Salesforce and automatically into C-Zentrix CTI (CZ Bar).",
+                                        "featurebutton": "Request Demo"
+                                },
+                                {
+                                        "sectionorder": "odd",
+                                        "featureimage": "/images/partners-page/salesforce-integration/img005.png",
+                                        "featureheading": "All in One Cloud Communication System",
+                                        "featuretitle": "C-Zentrix is a secure, all-in-one, cloud contact center solution that meets all of your communication requirements and more. With seamless communication, you can keep your team and business productive and collaborative from anywhere. Whether your agents are WFH, office or remote, enjoy the flexibility that C-Zentrix contact center offers with WebRTC and Mobile App solution.",
+                                        "featurebutton": ""
+                                },
+                                {
+                                        "sectionorder": "even",
+                                        "featureimage": "/images/partners-page/salesforce-integration/img006.png",
+                                        "featureheading": "Engage with powerful contact center",
+                                        "featuretitle": "Your investment in Salesforce will double up with a powerful contact center solution doing the heavy weightlifting. C-Zentrix offers a versatile dialer, advanced IVR, ACD (call routing), voice recording, dashboards and reports. Your agents can use softphones, deskphones, mobile or even WebRTC for voice calls. So have the best of both worlds!",
+                                        "featurebutton": "Request Demo"
+                                }
+                        ]
+                },
+                "videosection": [
+                        {
+                                "videoimage": "https://img.youtube.com/vi/m_C7VbZyb3k/0.jpg",
+                                "video_url": "https://www.youtube.com/embed/m_C7VbZyb3k",
+                                "videoheading": "NetMeds",
+                                "videotitle": "We evaluated the top three contact center service providers and chose C-Zentrix as our partners for all our customer service delivery processes. The team at C-Zentrix, right from the sales personnel to our account manager are immersed with our team as one family.",
+                                "videoheadingone": "Mr. Bruce Schwack",
+                                "videodescription": "Chief Communications Officer"
+                        }
+                ],
+                "salesforcecontact": {
+                        "salesforcecontactheadingone": "Contact us today to get started with<br>C-Zentrix for Salesforce",
+                        "salesforcecontactheadingtwo": "Book My<br>Free Demo, Now!"
+                }
+        }
+}
